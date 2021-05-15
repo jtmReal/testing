@@ -1,6 +1,21 @@
-body {
+/**Tag Selectors**/
+body:hover {
   background-color: #C8F8FF;
 }
 h1{
   color: Yellow;
 }
+
+/**Class Selectors**/
+.Testing1{
+  background-color: red;
+}
+
+/**ID Selectors**/
+/**This stuff will override Tag Selectors because this is more specific**/
+#heading{
+  color: blue;
+}
+
+/**ID must be unique/only used in 1 place**/
+/**Pseudo classes have : in front and are for whenever HTML elements are in dif states. For exmaple hovering ov ever something**/
