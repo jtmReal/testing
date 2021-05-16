@@ -16,6 +16,3 @@ h1{
 #heading{
   color: blue;
 }
-
-/**ID must be unique/only used in 1 place**/
-/**Pseudo classes have : in front and are for whenever HTML elements are in dif states. For exmaple hovering ov ever something**/
